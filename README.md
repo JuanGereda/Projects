@@ -26,6 +26,6 @@ In addition to my projects, I’ve included resources to help you enhance your o
 I hope you find this portfolio insightful and inspiring. I’m always open to discussing my work, so feel free to reach out!
 
 - **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/jucage2000/)
-- **Email:** [juangereda@gmail.com]
+- **Email:** juangereda@gmail.com
 
 Thank you for visiting, and happy analyzing!
