@@ -14,7 +14,7 @@ As a data analyst, I specialize in transforming raw data into actionable insight
 ## Featured Projects
 
 - **[Netflix Data Analysis](https://github.com/JuanGereda/Projects/blob/main/Python%20Projects/Data%20Cleaning%20and%20Transformation%20of%20Netflix%20Content%20Data.ipynb):** A detailed exploration of Netflix data using Python, showcasing my skills in data cleaning and visualization.
-- **[Comparative Analysis of Hydrocarbon Types (Oil vs. Gas) in Relation to Key Production Variables in Colombia](https://github.com/JuanGereda/Projects/blob/main/Python%20Projects/Statistical%20analysis%20of%20the%20most%20important%20variables%20of%20hydrocarbons%20in%20Colombia..ipynb):** Brief description highlighting the tools and techniques used.
+- **[Comparative Analysis of Hydrocarbon Types (Oil vs. Gas) in Relation to Key Production Variables in Colombia](https://github.com/JuanGereda/Projects/blob/main/Python%20Projects/Statistical%20analysis%20of%20the%20most%20important%20variables%20of%20hydrocarbons%20in%20Colombia..ipynb):** A data analysis exploration using stadistical grapichs and searching the data in public sources.
 ## Additional Resources
 
 In addition to my projects, I’ve included resources to help you enhance your own data analysis skills with these powerful tools.
