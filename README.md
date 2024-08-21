@@ -18,7 +18,7 @@ As a data analyst, I specialize in transforming raw data into actionable insight
 - **[Market Analysis of S&P500 Technology Companies Visualization and Price Prediction](https://github.com/JuanGereda/Projects/blob/main/Python%20Projects/Market%20Analysis%20of%20S%26P500%20Technology%20Companies%20Visualization%2C%20Risk%20Assessment%2C%20and%20Price%20Prediction.ipynb):** A data analysis in the tech market of some S&P500 stocks.
 ## Power BI Projects
 
-- **[You can see all my dashboards here](https://www.novypro.com/profile_projects/juan-camilo-gereda-bonilla):**
+- **[You can see all my dashboards here](https://www.novypro.com/profile_projects/juan-camilo-gereda-bonilla)**
 
 ## Let's Connect!
 
