@@ -6,9 +6,7 @@ As a data analyst, I specialize in transforming raw data into actionable insight
 
 ## What You'll Find Here
 
-- **Excel Projects:** Examples of data analysis, automation using macros, and advanced Excel functionalities.
 - **Python Scripts:** Data manipulation with pandas, statistical analysis, and visualizations using libraries like matplotlib and seaborn.
-- **SQL Queries:** Projects focused on database creation, data cleaning, and complex querying to extract meaningful insights.
 - **Power BI Dashboards:** Interactive dashboards that visualize key metrics and trends, helping to make data-driven decisions.
 
 ## Python Projects
